@@ -11,6 +11,8 @@ namespace ExampleVsGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Example vs Git");
+            Console.WriteLine("Test Stage");
 
             Console.ReadKey();
         }
