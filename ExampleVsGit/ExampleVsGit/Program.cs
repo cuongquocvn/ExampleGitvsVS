@@ -10,7 +10,7 @@ namespace ExampleVsGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World 123!");
             Console.WriteLine("Example vs Git");
             Console.WriteLine("Test Stage");
 
